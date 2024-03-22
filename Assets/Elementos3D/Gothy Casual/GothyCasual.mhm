@@ -1,0 +1,80 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags GothyCasual
+camera 14.5 354.5 0.22989349611 -0.028108878332 -0.0301851718583 0.7375
+modifier torso/torso-vshape-decr|incr 0.006000
+modifier nose/nose-flaring-decr|incr -0.412000
+modifier breast/breast-trans-down|up 0.644000
+modifier nose/nose-volume-decr|incr -0.276000
+modifier nose/nose-trans-backward|forward -0.300000
+modifier macrodetails-universal/Muscle 1.000000
+modifier mouth/mouth-scale-horiz-decr|incr -0.030000
+modifier macrodetails/African 0.346027
+modifier macrodetails-proportions/BodyProportions 0.718000
+modifier chin/chin-width-decr|incr 0.128000
+modifier torso/torso-scale-horiz-decr|incr -0.472000
+modifier nose/nose-trans-down|up -0.496000
+modifier macrodetails/Gender 0.000000
+modifier torso/torso-scale-vert-decr|incr -0.018000
+modifier head/head-angle-in|out 0.080000
+modifier forehead/forehead-trans-backward|forward 1.000000
+modifier macrodetails-height/Height 0.669000
+modifier breast/BreastSize 0.626000
+modifier mouth/mouth-scale-vert-decr|incr 0.546000
+modifier mouth/mouth-lowerlip-middle-down|up -0.080000
+modifier chin/chin-cleft-decr|incr -0.178000
+modifier nose/nose-hump-decr|incr -0.240000
+modifier nose/nose-septumangle-decr|incr -0.154000
+modifier torso/torso-muscle-dorsi-decr|incr -0.436000
+modifier nose/nose-base-down|up -0.056000
+modifier torso/torso-muscle-pectoral-decr|incr -0.680000
+modifier forehead/forehead-scale-vert-decr|incr -0.116000
+modifier mouth/mouth-trans-down|up -0.080000
+modifier macrodetails/Age 0.613000
+modifier mouth/mouth-angles-down|up 0.472000
+modifier breast/BreastFirmness 0.767000
+modifier macrodetails/Asian 0.309973
+modifier chin/chin-height-decr|incr -0.006000
+modifier mouth/mouth-philtrum-volume-decr|incr 0.484000
+modifier chin/chin-prominent-decr|incr -0.276000
+modifier nose/nose-scale-depth-decr|incr -0.042000
+modifier forehead/forehead-temple-decr|incr 0.190000
+modifier mouth/mouth-upperlip-middle-down|up 0.142000
+modifier mouth/mouth-trans-in|out 0.092000
+modifier head/head-fat-decr|incr -0.804000
+modifier macrodetails/Caucasian 0.344000
+modifier chin/chin-jaw-drop-decr|incr -0.472000
+modifier nose/nose-curve-concave|convex -0.570000
+modifier mouth/mouth-upperlip-volume-decr|incr 0.190000
+modifier chin/chin-prognathism-decr|incr 0.068000
+modifier nose/nose-scale-vert-decr|incr -0.276000
+modifier head/head-round 0.006000
+modifier nose/nose-nostrils-angle-down|up -0.484000
+modifier nose/nose-compression-compress|uncompress -0.240000
+modifier mouth/mouth-cupidsbow-decr|incr -0.448000
+modifier breast/breast-dist-decr|incr -0.436000
+modifier eyebrows/eyebrows-trans-down|up 1.000000
+modifier nose/nose-scale-horiz-decr|incr -0.608000
+modifier mouth/mouth-upperlip-width-decr|incr -0.632000
+modifier chin/chin-bones-decr|incr -0.240000
+modifier macrodetails-universal/Weight 0.172000
+modifier mouth/mouth-trans-backward|forward -0.620000
+modifier mouth/mouth-upperlip-ext-down|up -0.484000
+modifier nose/nose-greek-decr|incr 0.300000
+modifier mouth/mouth-cupidsbow-width-decr|incr -0.424000
+modifier mouth/mouth-lowerlip-volume-decr|incr 0.128000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
+hair elv_50supdo1 2ff5eb2b-195b-4a2e-9332-a6a55c2d0ce0
+eyelashes eyelashes02 04a0718e-aaa4-4480-a013-ad51703bef6b
+skeleton default.mhskel
+eyebrows eyebrow001 9c81ec3a-faa5-4c94-9cdb-992300ba3084
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes crude_male_shirt db442f65-9ce9-4ae1-8af8-1c257e80ed7a
+clothes mens_elv_jeans2slf b7b1736a-b8d4-43b5-aa2a-d546eb02caca
+clothes shoes05 8ef14ff4-8547-419c-a495-17bab919568b
+clothesHideFaces True
+skinMaterial skins/middleage_asian_female/middleage_asian_female.mhmat
+material elv_50supdo1 2ff5eb2b-195b-4a2e-9332-a6a55c2d0ce0 elv_50supdo1.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/blue.mhmat
+subdivide False

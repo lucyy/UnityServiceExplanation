@@ -1,0 +1,6 @@
+framework module GfycatScreenCapture {
+  umbrella header "GfycatScreenCapture.h"
+
+  export *
+  module * { export * }
+}
